@@ -38,3 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Makefile
 '_test: name.c'
    gcc -o name.c name
+![GitHub Logo](/images/38992D4F-1211-4F1A-9AD5-1B314A548061.png)
+Format: ![Alt Text](https://github.com/skaura-1/C/blob/master/%E5%9B%BE%E7%89%87/38992D4F-1211-4F1A-9AD5-1B314A548061.png)
