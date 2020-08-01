@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 
-**[中文]（https://github.com/hiraeth-1/C/blob/master/zhongwen.md）**
+[中文]（https://github.com/hiraeth-1/C/raw/master/zhongwen.md)
 
 You can use the [editor on GitHub](https://github.com/skaura-1/C) to maintain and preview the content for your website in Markdown files.
 
